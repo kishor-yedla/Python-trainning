@@ -1,0 +1,8 @@
+username = input("Enter username:")
+Age= input("Enter Age:")
+Education= input("Enter Qualification:")
+Hobby= input("Enter Hobby:")
+print("Username is: " + username)
+print("My Age is: " + Age)
+print("My Eduction Qualificaton is: " + Education)
+print("My Hobby is: " + Hobby)
